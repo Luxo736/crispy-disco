@@ -12,8 +12,8 @@ of genomes
 
 ##Success Criteria
 
--Submit a working programme by 18 October 2016
--Create a valuable genetic analytic tool
+- Submit a working programme by 18 October 2016
+- Create a valuable genetic analytic tool
 
 ##Behaviour Agreement
 

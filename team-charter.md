@@ -2,13 +2,12 @@
 
 ##Project Vision
 
-Help geneticists further understand the relationship between genes and the phenotype by creating a python module 
+Help geneticists further understand the relationship between genes and phenotype by creating a python module 
 for analysing genomic data
 
 ##Project Mission
 
-Create an analytic python module that integrates epigenetic data together with genetic data to allow for higher power analyses
-of genomes
+Create a python database that integrates DNAse hypersensitivity data with SNP data to allow for higher power integrative analysis of differences between cell fates and how these impact on cell phenotype
 
 ##Success Criteria
 
